@@ -26,22 +26,34 @@ This pack adds **Legend of Zelda** themed skins to several dragons in the **Isle
 
 - **Skyloft**  
   `/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:skyloft}`
-![Untitled image (1)](https://github.com/user-attachments/assets/3c36e16e-fc6c-4cb9-acf7-0f5f3b25dca3)
+![Untitled image (2)](https://github.com/user-attachments/assets/70d667d7-0212-440b-9c49-4e553471538e)
+
 
 
 ### Gronckle
 - **Durak** (Daruk)  
   `/summon isleofberk:gronckle ~ ~ ~ {VariantName:durak}`
+![Untitled image (4)](https://github.com/user-attachments/assets/4013d09c-203f-4e76-9ec2-39a76d012d70)
+
+
 - **Yunobo**  
   `/summon isleofberk:gronckle ~ ~ ~ {VariantName:yunobo}`
+![Untitled image (3)](https://github.com/user-attachments/assets/ca3c216d-1392-48f1-b3af-18439764c1fb)
+
+
 
 ### Skrill
 - **Urbosa**  
   `/summon isleofberk:skrill ~ ~ ~ {VariantName:urbosa}`
+![Untitled image (6)](https://github.com/user-attachments/assets/248f53e4-4992-4ab9-a54c-b4e746e51fab)
+
+
 
 ### Speed Stinger
 - **Link**  
   `/summon isleofberk:speed_stinger ~ ~ ~ {VariantName:link}`
+![Untitled image (5)](https://github.com/user-attachments/assets/0c315219-9bd9-4ca6-b2b0-90333732300e)
+
 - **Link B** (Blue Tunic)  
   `/summon isleofberk:speed_stinger ~ ~ ~ {VariantName:link_b}`
 - **Zelda B**  
