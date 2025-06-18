@@ -9,7 +9,8 @@ This pack adds **Legend of Zelda** themed skins to several dragons in the **Isle
 ### Night Fury
 - **Wolf Link**  
   `/summon isleofberk:night_fury ~ ~ ~ {VariantName:wolf_link}`
-![Untitled image (3)](https://github.com/user-attachments/assets/af1d39e9-c26f-4bb2-945e-95ca2ace79e0)
+![Untitled image](https://github.com/user-attachments/assets/667d38c3-d1f4-482d-a345-f73c80f940ec)
+
 
 
 
