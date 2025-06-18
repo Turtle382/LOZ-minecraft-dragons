@@ -100,3 +100,4 @@ This pack adds **Legend of Zelda** themed skins to several dragons in the **Isle
 - **Skins by:** *turtle382*  
 - **Mod Compatibility:** *Isle of Berk* Minecraft Mod  
 - **Inspired by:** *The legend of zelda*
+- **model for wooly howl and sandwraith:** *by aa*
