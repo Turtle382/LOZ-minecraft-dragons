@@ -26,6 +26,8 @@ This pack adds **Legend of Zelda** themed skins to several dragons in the **Isle
 
 - **Skyloft**  
   `/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:skyloft}`
+![Untitled image (1)](https://github.com/user-attachments/assets/3c36e16e-fc6c-4cb9-acf7-0f5f3b25dca3)
+
 
 ### Gronckle
 - **Durak** (Daruk)  
