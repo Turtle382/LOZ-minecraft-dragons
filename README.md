@@ -56,8 +56,12 @@ This pack adds **Legend of Zelda** themed skins to several dragons in the **Isle
 
 - **Link B** (Blue Tunic)  
   `/summon isleofberk:speed_stinger ~ ~ ~ {VariantName:link_b}`
+![Untitled image (7)](https://github.com/user-attachments/assets/00de5999-53d8-4c9e-9481-fc4de55e1cde)
+
 - **Zelda B**  
   `/summon isleofberk:speed_stinger ~ ~ ~ {VariantName:zelda_b}`
+![Untitled image (8)](https://github.com/user-attachments/assets/7a87b1a0-4264-41c2-b92b-db9a65a0ad49)
+
 
 ### Stinger
 - **Epona**  
