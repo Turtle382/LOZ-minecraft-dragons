@@ -70,13 +70,11 @@ This pack adds **Legend of Zelda** themed skins to several dragons in the **Isle
 2. Enable the pack in the Resource Packs menu.
 3. Load into your world with the Isle of Berk mod.
 
-### For Custom Variants:
-This pack includes `dragon_variants` JSON files that let the mod load new character-based textures. You must have a compatible version of Isle of Berk that supports custom `VariantName` tags.
 
 ---
 
 ## Credits
 
-- **Skins by:** *Your Name*  
+- **Skins by:** *turtle382*  
 - **Mod Compatibility:** *Isle of Berk* Minecraft Mod  
-- **Inspired by:** *T*
+- **Inspired by:** *The legend of zelda*
