@@ -22,6 +22,8 @@ This pack adds **Legend of Zelda** themed skins to several dragons in the **Isle
 ### Deadly Nadder
 - **Revali**  
   `/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:revoli}`
+![Untitled image (1)](https://github.com/user-attachments/assets/90aa211c-8ccb-442b-95de-c48a59fd4813)
+
 - **Skyloft**  
   `/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:skyloft}`
 
