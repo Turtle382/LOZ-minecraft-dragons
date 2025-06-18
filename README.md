@@ -66,26 +66,42 @@ This pack adds **Legend of Zelda** themed skins to several dragons in the **Isle
 ### Stinger
 - **Epona**  
   `/summon isleofberk:stinger ~ ~ ~ {VariantName:epona}`
+![Untitled image (9)](https://github.com/user-attachments/assets/57976649-2ca5-4d47-8e33-21a5b447c062)
+
 - **Gannon** (Ganondorf)  
   `/summon isleofberk:stinger ~ ~ ~ {VariantName:gannon}`
+![Untitled image (10)](https://github.com/user-attachments/assets/4d54d11f-38b1-43a9-89ae-2b44cba4538f)
+
 - **Gold**  
   `/summon isleofberk:stinger ~ ~ ~ {VariantName:gold}`
+![Untitled image (11)](https://github.com/user-attachments/assets/f4cf5219-25e6-4786-90ce-cfd6bff6ed78)
+
 - **Royal**  
   `/summon isleofberk:stinger ~ ~ ~ {VariantName:royal}`
+![Untitled image (13)](https://github.com/user-attachments/assets/59d8ed46-70d2-4102-921b-5b03dbe3a5be)
+
 
 ### Terrible Terror
 - **Midna**  
   `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:midna}`
+![Untitled image (14)](https://github.com/user-attachments/assets/bb4920ea-971f-4bf4-a4ac-7de1828356cf)
+
 
 ### Sandwraith
 - **Mipha**  
   `/summon isleofberk:light_fury ~ ~ ~ {VariantName:mipha}`
+![Untitled image (15)](https://github.com/user-attachments/assets/95f203cd-25bc-4444-b146-57a1189dfa22)
+
 - **Sidon**  
   `/summon isleofberk:light_fury ~ ~ ~ {VariantName:sidon}`
+![Untitled image (16)](https://github.com/user-attachments/assets/f114b209-10f4-43a6-bbee-2f5667d574b3)
+
 
 ### Woolly Howl
 - **Dark Beast** (Ganon)  
   `/summon isleofberk:night_fury ~ ~ ~ {VariantName:dark_beast}`
+![Untitled image (17)](https://github.com/user-attachments/assets/9c50aadb-8bd0-4f3a-9ccd-a25883b16dd4)
+
 
 ---
 
