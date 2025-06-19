@@ -70,7 +70,7 @@ logo by turtle382
   `/summon isleofberk:stinger ~ ~ ~ {VariantName:epona}`
 ![Untitled image (9)](https://github.com/user-attachments/assets/57976649-2ca5-4d47-8e33-21a5b447c062)
 
-- **Gannon** (Ganondorf)  
+- **Gannon** (Ganons horse)  
   `/summon isleofberk:stinger ~ ~ ~ {VariantName:gannon}`
 ![Untitled image (10)](https://github.com/user-attachments/assets/4d54d11f-38b1-43a9-89ae-2b44cba4538f)
 
