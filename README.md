@@ -64,6 +64,9 @@ logo by turtle382
   `/summon isleofberk:speed_stinger ~ ~ ~ {VariantName:zelda_b}`
 ![Untitled image (8)](https://github.com/user-attachments/assets/7a87b1a0-4264-41c2-b92b-db9a65a0ad49)
 
+- **Sheik** 
+  `/summon isleofberk:speed_stinger ~ ~ ~ {VariantName:Sheik}`
+
 
 ### Stinger
 - **Epona**  
