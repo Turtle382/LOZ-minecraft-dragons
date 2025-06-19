@@ -1,7 +1,6 @@
-# Legend of Zelda Skins – Isle of Berk Mod Add-on
+# Legend of Zelda variants
 
-This pack adds **Legend of Zelda** themed skins to several dragons in the **Isle of Berk Minecraft mod**. Choose your favorite Zelda character and summon them into your world, ready to fly!
-
+this adds legend of zelda characters to play with still being worked on  
 ---
 
 ## Skins by Dragon Type
