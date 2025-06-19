@@ -1,6 +1,6 @@
 # Legend of Zelda variants
 
-this adds legend of zelda characters to play with still being worked on 
+this adds legend of zelda characters to play with still being worked on.
 logo by turtle382
 ![Untitled image (3)](https://github.com/user-attachments/assets/c4a590a6-7a44-4a19-845f-30af06357d39)
  
