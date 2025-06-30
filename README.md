@@ -8,7 +8,7 @@ Logo by turtle382
 
 ## 📜 Navigation
 
-- [Night Fury](#night-fury)
+[**Night Fury**](https://github.com/Turtle382/night-fury/blob/main/README.md)
 - [Light Fury](#light-fury)
 - [Deadly Nadder](#deadly-nadder)
 - [Gronckle](#gronckle)
