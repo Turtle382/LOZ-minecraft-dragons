@@ -17,6 +17,7 @@ Logo by turtle382
 - [**terrible terror**](https://github.com/Turtle382/terrible-terror/blob/main/README.md)
 - [**sandwraith**](https://github.com/Turtle382/sandwraith/blob/main/README.md)
 - [**Woolly Howl**](https://github.com/Turtle382/wooly-howl/blob/main/README.md)
+- [**pygmy death**](https://github.com/Turtle382/pygmy-death/blob/main/README.md)
 
 ---
 
