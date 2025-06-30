@@ -37,3 +37,4 @@ Logo by turtle382
 - **Mod Compatibility:** *Isle of Berk* Minecraft Mod  
 - **Inspired by:** *The Legend of Zelda*  
 - **Model for Woolly Howl and Sandwraith:** *by aa*
+- **Model for pygmy death:** *by gecko sauce*
